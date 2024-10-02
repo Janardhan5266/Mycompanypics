@@ -1,0 +1,22 @@
+h1 {
+  font-family: roboto;
+  font-size: 4 rem;
+  text-align: center;
+}
+.flex{
+  display: flex;
+  max-width: 100%;
+  flex-wrap: wrap;
+  align-items: space-around;
+  
+}
+.pics{
+  width: 100px;
+  overflow: hidden;
+  margin: 10px;
+  
+}
+img{
+  width: 100px;
+  height: 100px;
+}
